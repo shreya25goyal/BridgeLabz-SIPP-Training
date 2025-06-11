@@ -9,3 +9,4 @@ public class AddTwoNumbers
     System.out.println("The sum is :" + sum);
  }
 }
+// This is a sample comment added for testing Git
